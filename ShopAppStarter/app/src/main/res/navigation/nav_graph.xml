@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/productListFragment">
+    <fragment android:id="@+id/productListFragment"
+        android:name="com.miguel.shopapp.ui.products.ProductListFragment"
+        android:label="Productos" />
+    <fragment android:id="@+id/productFormFragment"
+        android:name="com.miguel.shopapp.ui.products.ProductFormFragment"
+        android:label="Producto" />
+    <fragment android:id="@+id/cartFragment"
+        android:name="com.miguel.shopapp.ui.cart.CartFragment"
+        android:label="Carrito" />
+    <fragment android:id="@+id/profileFragment"
+        android:name="com.miguel.shopapp.ui.profile.ProfileFragment"
+        android:label="Perfil" />
+</navigation>

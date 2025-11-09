@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShopAppStarter</string>
+    <string name="welcome_message">¡Bienvenido a ShopApp!</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="profile">Perfil</string>
+    <string name="products">Productos</string>
+    <string name="cart">Carrito</string>
+    <string name="add">Añadir</string>
+    <string name="save">Guardar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="price">Precio</string>
+    <string name="size">Talla</string>
+    <string name="pick_image">Elegir imagen</string>
+</resources>
